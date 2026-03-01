@@ -24,8 +24,8 @@ a.foo:hover {
   color: black;
 }
 a.foo {
-  text-decoration-color: white;
-  color: white;
+  text-decoration-color: darkblue;
+  color: darkblue;
 }
 h1{
     color:aquamarine;

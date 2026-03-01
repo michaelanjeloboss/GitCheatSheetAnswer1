@@ -26,3 +26,8 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+h1{
+    color:aquamarine;
+    text-align: justify;
+    background: white;
+}

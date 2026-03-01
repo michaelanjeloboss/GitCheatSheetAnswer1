@@ -25,6 +25,6 @@ git commit -m <message>
 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git remote add origin url
+git remote add REMOTE BRANCH
 git push origin url
 ```
